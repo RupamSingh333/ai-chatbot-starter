@@ -34,7 +34,9 @@ This project is an AI chatbot application that integrates with OpenAI's GPT-3.5 
 3. **Set up environment variables**:
   Create a `.env.local` file in the root directory and add your OpenAI API key:
   ```env
-  NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key
+  GEMINI_API_KEY=your_api_key
+  GOOGLE_API_KEY=your_api_key
+  OPENAI_API_KEY=your_api_key
   ```
 
 ### Running the Project
