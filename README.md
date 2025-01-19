@@ -20,7 +20,7 @@ This project is an AI chatbot application that integrates with OpenAI's GPT-3.5 
 
 1. **Clone the repository**:
   ```bash
-  git clone https://github.com/yourusername/ai-chatbot-starter.git
+  git clone https://github.com/RupamSingh333/ai-chatbot-starter.git
   cd ai-chatbot-starter
   ```
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [your email].
+Developed by Rupam Singh. For any inquiries, please contact [rupamkumar333@gmail.com].
