@@ -1,5 +1,5 @@
 import { streamText } from "ai";
-import { initiaMessage } from "@/lib/data";
+import { initiaMessage } from "@/lib/doc_data";
 import { createOpenAI } from "@ai-sdk/openai";
 
 const openAI = createOpenAI({

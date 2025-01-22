@@ -88,11 +88,11 @@ export default function Chat() {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.8, y: 50 }}
             transition={{ duration: 0.3, ease: "easeInOut" }}
-            className="fixed bottom-16 right-4 z-50 w-[95%] max-w-md md:w-[500px] sm:max-w-full"
+            className="fixed bottom-16 right-4 z-50 w-[95%] max-w-md md:w-[1000px] sm:max-w-full"
           >
             <Card className="border-2 w-full bg-white shadow-lg rounded-lg">
               {/* Header */}
-              <CardHeader className="relative flex flex-row items-center justify-between pb-1 border-b border-gray-200">
+              <CardHeader className="relative p-6 flex flex-row items-center justify-between border-b border-gray-200">
                 <div className="flex flex-col space-y-1 pl-4">
                   <CardTitle className="text-2xl font-bold text-gray-800 sm:text-lg">
                     Chat with AI

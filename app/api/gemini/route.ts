@@ -1,6 +1,7 @@
 import { streamText, Message } from "ai";
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
-import { initiaMessage } from "@/lib/data";
+import { initiaMessage } from "@/lib/doc_data";
+
 
 const googleGenAI = createGoogleGenerativeAI({
   apiKey: process.env.GOOGLE_API_KEY || "",
