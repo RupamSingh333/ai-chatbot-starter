@@ -16,6 +16,10 @@ This project is an AI chatbot application that integrates with OpenAI's GPT-3.5 
 
 ## Getting Started
 
+## Overview 
+
+![alt text](https://raw.githubusercontent.com/RupamSingh333/ai-chatbot-starter/refs/heads/main/public/image.png)
+
 ### Installation
 
 1. **Clone the repository**:
